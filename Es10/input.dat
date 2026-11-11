@@ -1,0 +1,5 @@
+N_CITIES       110
+N_STEPS        50000000
+N_MIGR         1000
+T_MIN          0.01
+T_MAX          20

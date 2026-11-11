@@ -1,0 +1,9 @@
+N_CITIES       34
+N_INDIVIDUALS  15
+N_GENS         50000
+P_PAIR_PERM    0.1
+P_SHIFT        0.1
+P_MPERM        0.1
+P_REVERSE      0.1
+P_SELEC        2.0
+P_CROSS        0.7
